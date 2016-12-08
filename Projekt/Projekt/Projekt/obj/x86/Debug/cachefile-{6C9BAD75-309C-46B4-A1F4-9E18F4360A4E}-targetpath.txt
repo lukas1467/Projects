@@ -1,0 +1,5 @@
+Content\pika.xnb
+Content\goalie.xnb
+Content\boisko.xnb
+Content\Fonts.xnb
+Content\sounds\GoalSound.xnb
